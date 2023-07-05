@@ -1,0 +1,8 @@
+C:\Users\Allan\source\repos\Atividade C# 2023\Atividade C# 2023\bin\Debug\Atividade C# 2023.exe.config
+C:\Users\Allan\source\repos\Atividade C# 2023\Atividade C# 2023\bin\Debug\Atividade C# 2023.exe
+C:\Users\Allan\source\repos\Atividade C# 2023\Atividade C# 2023\bin\Debug\Atividade C# 2023.pdb
+C:\Users\Allan\source\repos\Atividade C# 2023\Atividade C# 2023\obj\Debug\Atividade C# 2023.csproj.AssemblyReference.cache
+C:\Users\Allan\source\repos\Atividade C# 2023\Atividade C# 2023\obj\Debug\Atividade C# 2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Allan\source\repos\Atividade C# 2023\Atividade C# 2023\obj\Debug\Atividade C# 2023.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\Atividade C# 2023\Atividade C# 2023\obj\Debug\Atividade C# 2023.exe
+C:\Users\Allan\source\repos\Atividade C# 2023\Atividade C# 2023\obj\Debug\Atividade C# 2023.pdb
